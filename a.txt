@@ -1,0 +1,14 @@
+git init 
+
+git add 파일명
+git add . 
+
+git status
+
+git config --global user.name onoffclass4
+git config --global user.email onoffclass4@gmail.com
+
+git commit -m "첫 번째 커밋"
+
+git log 
+
